@@ -27,7 +27,7 @@ Desarrollar una skill para Alexa que permita a los usuarios acceder de manera se
 | Captura                                                                                                      | Descripción                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | ![imagen](https://github.com/user-attachments/assets/843377f0-0964-49a9-bc5d-dc010a9bc56e)                  | Para comenzar debemos crear una cuenta de Amazon Developer o iniciar sesión si ya tienes una cuenta.          |
-| <img src="https://github.com/user-attachments/assets/c2766b6d-e3b5-4fb1-83df-a616f6aba615" width="300">   | Descargamos herramientas necesarias, por si usas una plantilla o frameworks como ASK CLI, e instálalas localmente. |
+| <img src="https://github.com/user-attachments/assets/c2766b6d-e3b5-4fb1-83df-a616f6aba615" >   | Descargamos herramientas necesarias, por si usas una plantilla o frameworks como ASK CLI, e instálalas localmente. |
 
 ---
 
